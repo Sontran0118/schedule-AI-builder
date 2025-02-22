@@ -39,4 +39,9 @@ def parse_pdf():
         return jsonify({"error": f"An unexpected error occurred: {str(e)}"}), 500
 
 if __name__ == '__main__':
+HEAD
     app.run(debug=True)git config pull.rebase false
+
+    app.run(debug=True)
+jjjhjbhj
+9b2b1332b0eca8e6168999b9e3d01fe43b2efc4c
